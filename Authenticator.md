@@ -1,4 +1,4 @@
-A "thing" (or "things" when using more than one) used by an [[Entity]], along with an [[Identifier]] to [[Authenticate]] them.
+A "thing" (or "things" when using more than one) used by an [[Entity]], along with an [[Identifier]] to [[Authenticate]] themself (for a [[Person Entity]]) / itself (for a [[Non-person Entity]]).
 
 Authenticators may be described as falling into three types - something you:
 - **Have**: AKA possession factors
