@@ -1,0 +1,1 @@
+The use of [[Symmetric key Cryptography]] for the purpose of [[Encryption]] and/or [[Decryption]], using a single [[Symmetric key]].

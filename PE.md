@@ -1,0 +1,1 @@
+Initialism for [[Person Entity]]

@@ -1,0 +1,1 @@
+Accronym of [[National Institute of Standards and Technology]], a US federal Government organization.

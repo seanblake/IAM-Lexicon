@@ -1,0 +1,1 @@
+Uncommon abbreviation of [[Certificate Revocation List Distribution Point]]

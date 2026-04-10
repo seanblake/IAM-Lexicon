@@ -1,0 +1,3 @@
+One of two keys in an [[Asymmetric key pair]],  (along with a [[Public key]]) which is intended to be kept secret.
+
+An [[X.509]] [[Digital Certificate]] is a type of credential used to authenticate the entity to which it's issued by demonstrating they have possession of the private key.  This is done via a [[Challenge-Response]] mechanism leveraging the property that data enciphered with one key in an [[Asymmetric key pair]] may be deciphered by the other key.

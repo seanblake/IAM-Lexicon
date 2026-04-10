@@ -1,0 +1,1 @@
+Refers to a metaphorical "chain" connecting an [[End entity certificate]] up a [[Public Key Infrastructure]] hierarchy to a [[Root Certification Authority]], whereby explicit trust of the [[Root CA]] allows implicit trust of the [[End entity]].

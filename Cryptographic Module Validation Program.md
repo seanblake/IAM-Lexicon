@@ -1,0 +1,3 @@
+A joint program administered in collaboration between the [[Canadian Centre for Cyber Security]] in Canada, and the [[National Institute of Standards and Technology]] in the United States which validates cryptographic modules (both software and hardware implementations of specific cryptographic algorithms).
+
+Suppliers submit their products for assessments (conducted by certified third-party laboratories) against the [[FIPS 140]] standard.  Successful assessment means a product is "FIPS 140 certified", which is required for use in some applications in the American and Canadian federal governments, and is also widely acknowledged in the private sector that certified products may provide a high level of security.

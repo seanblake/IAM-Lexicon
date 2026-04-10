@@ -1,0 +1,1 @@
+An [[International Telecommunications Union]] ([[ITU]]) standard in the [[X.500-Series]] which describes the industry standard implementation of Digital Certificates.

@@ -1,0 +1,3 @@
+One of two keys in an [[Asymmetric key pair]],  (along with a [[Private key]]) which is intended to be shared publicly, commonly along with an associated [[Identifier]].
+
+An [[X.509]] [[Digital Certificate]] is a type of credential used to authenticate the entity to which it's issued, and it contains a **public key** associated with the entity's identity using an identifier, such as the entity's name, and optionally other information ([[Attribute]]s) describing the entity.

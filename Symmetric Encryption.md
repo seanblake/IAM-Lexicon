@@ -1,0 +1,1 @@
+Synonymous with [[Symmetric key Encryption]]

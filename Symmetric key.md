@@ -1,0 +1,1 @@
+A single key used in [[Symmetric Key Cryptography]]

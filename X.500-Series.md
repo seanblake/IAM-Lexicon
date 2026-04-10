@@ -1,0 +1,1 @@
+A set of standards published by the [[International Telecommunications Union]] related to a [[Directory]] and the objects contained within it.

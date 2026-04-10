@@ -1,0 +1,1 @@
+Abbreviation of [[Issuing Certification Authority]]

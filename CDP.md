@@ -1,0 +1,1 @@
+Initialism of [[Certificate Revocation List Distribution Point]] (or more accurately [[CRL]] Distribution Point)

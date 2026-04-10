@@ -1,0 +1,3 @@
+A [[NIST]] publication from the [[Federal Information Processing Standard]] family of standards which describes technical and operational specifications for cryptographic modules, including an assessment framework for commercial organizations to receive certification through the [[Cryptographic Module Validation Program]].
+
+As of January 2026, the latest version is v3, denoted by "FIPS 140-3".  At the same time, the [[CMVP]] is only performing certifications against this version, although use of products certified against version 2 (FIPS 140-2) are still permitted for use.
